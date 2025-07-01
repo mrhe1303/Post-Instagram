@@ -1,0 +1,121 @@
+body {
+    background-color: black;
+}
+.post {
+    width: 500px;
+    height: 750px;
+    position: relative;
+    left: 700px;
+    top: 75px;
+}
+.post-header {
+    width: 500px;
+    height: 75px;
+    background-color: white;
+    display: flex;
+}
+.post-img {
+    width: 500px;
+    height: 400px;
+}
+.post-body {
+    width: 500px;
+    height: 275px;
+    background-color: white;
+}
+.div-img {
+    width: 50px;
+    height: 60px;
+    position: relative;
+    left: 5px;
+    top: 2px;
+}
+.div-text {
+    width: 100px;
+    height: 60px;
+    position: relative;
+    left: 10px;
+    top: 2px;
+}
+.div-img2 {
+    width: 50px;
+    height: 60px;
+    position: relative;
+    left: 290px;
+    top: 10px;
+}
+.img1 {
+    object-fit: contain;
+    width: 50%;
+    height: 75%;
+    position: relative;
+    left: 25%;
+    top: 12%;
+}
+h1 {
+    font-size: 20px;
+    position: relative;
+    top: 0.1px;
+}
+h2 {
+    font-size: 20px;
+    position: relative;
+    bottom: 20px;
+}
+.img2 {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+.img3 {
+    object-fit: cover;
+    width: 500px;
+    height: 400px;
+}
+.post-icons {
+    display: flex;
+    width: auto;
+    height: 75px;
+}
+.heart {
+    font-size: 60px;
+    position: relative;
+    left: 10px;
+    top: 5px;
+}
+.comment {
+    font-size: 60px;
+    position: relative;
+    left: 15px;
+    top: 5px;
+}
+.plane {
+    font-size: 60px;
+    position: relative;
+    left: 20px;
+    top: 5px;
+}
+.bookmark {
+    font-size: 60px;
+    position: relative;
+    left: 250px;
+    top: 5px;
+}
+.p1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    position: relative;
+    left: 10px;
+    margin: 5px;
+    margin-top: 20px;
+}
+.p2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    position: relative;
+    left: 10px;
+    right: 10px;
+    margin: 5px;
+    margin-top: 20px;
+    margin-right: 5px;
+}
