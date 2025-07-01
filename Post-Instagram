@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="post">
+        <div class="post-header">
+            <div class="div-img"><img src="https://raw.githubusercontent.com/fizzed/font-mfizz/ccff3ec9555918c0a67ed6b5f360af5841045e3e/src/svg/html5-alt.svg" class="img1"/></div>
+            <div class="div-text"><h1><strong>HTML5</strong></h1><h2>Rigoberto</h2></div>
+            <div class="div-img2"><img src="https://cdn2.iconfinder.com/data/icons/interface-vol-3-1/16/more-vertical-menu-dots-512.png" class="img2"/></div>
+        </div>
+        <div class="post-img"><img src="https://international-horizons.com/wp-content/webp-express/webp-images/uploads/2023/06/luca-micheli-r9RW20TrQ0Y-unsplash-1-980x735.jpg.webp" class="img3"/></div>
+        <div class="post-body">
+            <div class="post-icons">
+                <i class="fa-regular fa-heart heart"></i>
+                <i class="fa-regular fa-comment comment"></i>
+                <i class="fa-regular fa-paper-plane plane"></i>
+                <i class="fa-regular fa-bookmark bookmark"></i>
+            </div>
+            <p class="p1">Liked by <strong>4GeeksAcademy, html5, Web </strong>and <strong>100,000 others</strong></p>
+            <p class="p2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br> Ut enim ad minim veniam, quis nostrud exercitation ullamco<br> laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+    </div>
+</body>
+</html>
